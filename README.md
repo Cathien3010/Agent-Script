@@ -1,1 +1,1 @@
-# script1
+#!bin/bash
